@@ -1,0 +1,9 @@
+name,type,params
+String,String,String
+,,
+item,map,id
+npc,map,id
+role,map,id
+pack,map,type
+scene,map,id
+lang,kv,

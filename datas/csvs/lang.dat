@@ -1,0 +1,9 @@
+key,value
+String,String
+,
+username,用户名：
+password,密码：
+profession_1,战士
+profession_2,骑士
+profession_3,法师
+profession_4,牧师

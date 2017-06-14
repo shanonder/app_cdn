@@ -1,0 +1,12 @@
+key,clipX,clipY,interval,anchorX,anchorY
+String,int,int,int,String,String
+,,,,,
+png.chat.skill_1,3,3,80,0,0.5
+png.chat.skill_2,3,3,80,0,0.5
+png.chat.skill_3,3,3,80,0,0.5
+png.chat.skill_4,3,3,80,0,0.5
+png.chat.skill_5,3,3,80,0,0.5
+png.chat.skill_6,3,3,80,0,0.5
+png.chat.skill_7,3,3,80,0,0.5
+png.chat.skill_8,3,3,80,0,0.5
+png.chat.skill_9,3,3,80,0,0.5
